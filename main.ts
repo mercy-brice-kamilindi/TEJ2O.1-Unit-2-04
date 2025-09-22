@@ -18,4 +18,4 @@ input.onButtonPressed(Button.A, function() {
     basic.showString('Temperature is')
     basic.showNumber(temperature)
     basic.showString('C')
-})
+}) 
