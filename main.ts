@@ -15,7 +15,7 @@ basic.showIcon(IconNames.Happy)
 
 input.onButtonPressed(Button.A, function() {
     temperature = input.temperature()
-    basic.showString('Temperature is')
+    basic.showString('Temperature is:')
     basic.showNumber(temperature)
     basic.showString('C')
 }) 
